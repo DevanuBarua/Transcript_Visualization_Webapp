@@ -1,0 +1,13 @@
+.idea/
+R_script/
+Samples.tsv
+count_identifier.tsv
+data.zip
+data/
+2695664B_projectreport22-23bundle.zip
+.Rhistory
+aedes_counts.tsv
+aedes_metadata.tsv
+plasmodium_counts.tsv
+plasmodium_metadata.tsv
+Readme.txt
